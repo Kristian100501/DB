@@ -1,0 +1,30 @@
+ td {
+        width: 150px;
+        text-align: center;
+        border: 1px solid black;
+        padding: 5px;
+      }
+ tr.normal{
+background-color:#f8e4a8;
+}
+tr.niedrig{
+background-color:#b0e5cb;
+}
+tr.hoch{
+background-color:#d696bb;
+}
+tr.Hoch{
+background-color:#d696bb;
+}
+td.normal{
+background-color:#f8e4a8;
+}
+td.niedrig{
+background-color:#b0e5cb;
+}
+td.hoch{
+background-color:#d696bb;
+}
+td.Hoch{
+background-color:#d696bb;
+}
